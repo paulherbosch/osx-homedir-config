@@ -1,0 +1,1 @@
+# osx-homedir-config
