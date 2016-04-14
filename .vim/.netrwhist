@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/paul/chef-dus/cookbooks/time.factory.tools/attributes'
+let g:netrw_dirhist_2='/Users/paul/chef-dus/cookbooks/wtg-base/recipes'
+let g:netrw_dirhist_3='/Users/paul/chef-dus/cookbooks/wtg-base'
+let g:netrw_dirhist_4='/Users/paul/chef-dus/cookbooks/wtg-postfix-relay-dev/files/default/opt/maillog-watcher'
+let g:netrw_dirhist_5='/Users/paul/chef-dus/cookbooks/apache2/attributes'
+let g:netrw_dirhist_6='/Users/paul/packer/vm-definitions/centos67/scripts'
+let g:netrw_dirhist_7='/Users/paul/chef-dus/cookbooks/wtg-passenger_apache2'
+let g:netrw_dirhist_8='/Users/paul/vagrant/chefnewtest/vhosts/sinatra.tbwa.com/app'
+let g:netrw_dirhist_9='/Users/paul/vagrant/chefnewtest/vhosts/sinatra.tbwa.com'
